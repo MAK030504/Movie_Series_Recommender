@@ -1,0 +1,16 @@
+[server]
+# File watcher settings
+fileWatcherType = "auto"
+
+# Performance settings
+enableCORS = false
+enableXsrfProtection = false
+
+[runner]
+# Fast reruns
+fastReruns = true
+
+[logger]
+# Reduce log verbosity
+level = "error"
+

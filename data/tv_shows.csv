@@ -1,0 +1,151 @@
+id,title,genres,type
+10001,Breaking Bad (2008),Crime|Drama|Thriller,tv_show
+10002,Game of Thrones (2011),Action|Adventure|Drama|Fantasy,tv_show
+10003,The Crown (2016),Biography|Drama|History,tv_show
+10004,The Handmaid's Tale (2017),Drama|Sci-Fi|Thriller,tv_show
+10005,Succession (2018),Comedy|Drama,tv_show
+10006,Better Call Saul (2015),Crime|Drama,tv_show
+10007,The Sopranos (1999),Crime|Drama,tv_show
+10008,The Wire (2002),Crime|Drama|Thriller,tv_show
+10009,Mad Men (2007),Drama,tv_show
+10010,House of Cards (2013),Drama,tv_show
+10011,True Detective (2014),Crime|Drama|Mystery|Thriller,tv_show
+10012,Fargo (2014),Crime|Drama|Thriller,tv_show
+10013,Chernobyl (2019),Drama|History|Thriller,tv_show
+10014,The Americans (2013),Crime|Drama|Thriller,tv_show
+10015,Homeland (2011),Crime|Drama|Mystery|Thriller,tv_show
+10016,The Leftovers (2014),Drama|Fantasy|Mystery|Sci-Fi,tv_show
+10017,Six Feet Under (2001),Comedy|Drama,tv_show
+10018,Deadwood (2004),Crime|Drama|Western,tv_show
+10019,Boardwalk Empire (2010),Crime|Drama,tv_show
+10020,Ozark (2017),Crime|Drama|Thriller,tv_show
+10021,Stranger Things (2016),Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,tv_show
+10022,The Mandalorian (2019),Action|Adventure|Drama|Fantasy|Sci-Fi|Western,tv_show
+10023,The Witcher (2019),Action|Adventure|Drama|Fantasy,tv_show
+10024,Westworld (2016),Drama|Mystery|Sci-Fi|Thriller|Western,tv_show
+10025,Black Mirror (2011),Drama|Mystery|Sci-Fi|Thriller,tv_show
+10026,The Expanse (2015),Action|Adventure|Drama|Mystery|Sci-Fi,tv_show
+10027,Battlestar Galactica (2004),Action|Drama|Sci-Fi|Thriller,tv_show
+10028,The X-Files (1993),Crime|Drama|Mystery|Sci-Fi|Thriller,tv_show
+10029,Lost (2004),Adventure|Drama|Fantasy|Mystery|Sci-Fi|Thriller,tv_show
+10030,The Last of Us (2023),Action|Adventure|Drama|Horror|Sci-Fi|Thriller,tv_show
+10031,Severance (2022),Drama|Mystery|Sci-Fi|Thriller,tv_show
+10032,Foundation (2021),Drama|Sci-Fi,tv_show
+10033,For All Mankind (2019),Drama|Sci-Fi,tv_show
+10034,The Boys (2019),Action|Comedy|Crime|Drama|Sci-Fi|Thriller,tv_show
+10035,Invincible (2021),Action|Animation|Crime|Drama|Sci-Fi|Thriller,tv_show
+10036,The Umbrella Academy (2019),Action|Adventure|Comedy|Drama|Fantasy|Sci-Fi,tv_show
+10037,Dark (2017),Crime|Drama|Mystery|Sci-Fi|Thriller,tv_show
+10038,Altered Carbon (2018),Action|Drama|Mystery|Sci-Fi|Thriller,tv_show
+10039,Orphan Black (2013),Action|Drama|Sci-Fi|Thriller,tv_show
+10040,Fringe (2008),Drama|Mystery|Sci-Fi|Thriller,tv_show
+10041,The Office (2005),Comedy,tv_show
+10042,Fleabag (2016),Comedy|Drama,tv_show
+10043,Parks and Recreation (2009),Comedy,tv_show
+10044,The Good Place (2016),Comedy|Fantasy,tv_show
+10045,Schitt's Creek (2015),Comedy,tv_show
+10046,Arrested Development (2003),Comedy,tv_show
+10047,Community (2009),Comedy,tv_show
+10048,Brooklyn Nine-Nine (2013),Action|Comedy|Crime,tv_show
+10049,The Office (2001),Comedy,tv_show
+10050,30 Rock (2006),Comedy,tv_show
+10051,Veep (2012),Comedy,tv_show
+10052,Curb Your Enthusiasm (2000),Comedy,tv_show
+10053,It's Always Sunny in Philadelphia (2005),Comedy,tv_show
+10054,The Marvelous Mrs. Maisel (2017),Comedy|Drama,tv_show
+10055,Ted Lasso (2020),Comedy|Drama|Sport,tv_show
+10056,Barry (2018),Action|Comedy|Crime|Drama|Thriller,tv_show
+10057,What We Do in the Shadows (2019),Comedy|Fantasy|Horror,tv_show
+10058,The Bear (2022),Comedy|Drama,tv_show
+10059,Only Murders in the Building (2021),Comedy|Crime|Drama|Mystery,tv_show
+10060,Reservation Dogs (2021),Comedy|Crime|Drama,tv_show
+10061,True Detective (2014),Crime|Drama|Mystery|Thriller,tv_show
+10062,Mindhunter (2017),Crime|Drama|Thriller,tv_show
+10063,Dexter (2006),Crime|Drama|Mystery|Thriller,tv_show
+10064,Sherlock (2010),Crime|Drama|Mystery|Thriller,tv_show
+10065,Luther (2010),Crime|Drama|Mystery|Thriller,tv_show
+10066,Broadchurch (2013),Crime|Drama|Mystery|Thriller,tv_show
+10067,The Killing (2011),Crime|Drama|Mystery|Thriller,tv_show
+10068,Line of Duty (2012),Crime|Drama|Mystery|Thriller,tv_show
+10069,Peaky Blinders (2013),Crime|Drama,tv_show
+10070,Narcos (2015),Biography|Crime|Drama|Thriller,tv_show
+10071,Money Heist (2017),Action|Crime|Drama|Mystery|Thriller,tv_show
+10072,Prison Break (2005),Action|Crime|Drama|Mystery|Thriller,tv_show
+10073,The Shield (2002),Action|Crime|Drama|Thriller,tv_show
+10074,Justified (2010),Action|Crime|Drama|Thriller|Western,tv_show
+10075,Ray Donovan (2013),Crime|Drama|Thriller,tv_show
+10076,The Haunting of Hill House (2018),Drama|Horror|Mystery|Thriller,tv_show
+10077,American Horror Story (2011),Drama|Horror|Thriller,tv_show
+10078,The Walking Dead (2010),Drama|Horror|Thriller,tv_show
+10079,Hannibal (2013),Crime|Drama|Horror|Thriller,tv_show
+10080,Supernatural (2005),Drama|Fantasy|Horror|Mystery,tv_show
+10081,Buffy the Vampire Slayer (1997),Action|Drama|Fantasy|Horror,tv_show
+10082,The Twilight Zone (1959),Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,tv_show
+10083,Twin Peaks (1990),Crime|Drama|Horror|Mystery|Thriller,tv_show
+10084,Penny Dreadful (2014),Drama|Fantasy|Horror|Mystery|Thriller,tv_show
+10085,Midnight Mass (2021),Drama|Horror|Mystery|Thriller,tv_show
+10086,24 (2001),Action|Crime|Drama|Mystery|Thriller,tv_show
+10087,Jack Ryan (2018),Action|Crime|Drama|Thriller,tv_show
+10088,Reacher (2022),Action|Crime|Drama|Mystery|Thriller,tv_show
+10089,The Punisher (2017),Action|Crime|Drama|Thriller,tv_show
+10090,Daredevil (2015),Action|Crime|Drama,tv_show
+10091,Arrow (2012),Action|Adventure|Crime|Drama|Mystery|Sci-Fi,tv_show
+10092,The Flash (2014),Action|Adventure|Drama|Sci-Fi,tv_show
+10093,Agents of S.H.I.E.L.D. (2013),Action|Adventure|Drama|Sci-Fi,tv_show
+10094,The Mandalorian (2019),Action|Adventure|Drama|Fantasy|Sci-Fi|Western,tv_show
+10095,See (2019),Action|Adventure|Drama|Sci-Fi|Thriller,tv_show
+10096,Downton Abbey (2010),Drama|Romance,tv_show
+10097,The Tudors (2007),Biography|Drama|History|Romance,tv_show
+10098,Vikings (2013),Action|Adventure|Drama|History|War,tv_show
+10099,Rome (2005),Action|Drama|History|Romance|War,tv_show
+10100,The Last Kingdom (2015),Action|Adventure|Drama|History|War,tv_show
+10101,Outlander (2014),Drama|Fantasy|Romance|Sci-Fi|War,tv_show
+10102,Poldark (2015),Drama|History|Romance,tv_show
+10103,The Great (2020),Comedy|Drama|History,tv_show
+10104,Bridgerton (2020),Drama|History|Romance,tv_show
+10105,The Gilded Age (2022),Drama|History,tv_show
+10106,House (2004),Drama|Mystery,tv_show
+10107,Grey's Anatomy (2005),Drama|Romance,tv_show
+10108,The Good Doctor (2017),Drama,tv_show
+10109,ER (1994),Drama,tv_show
+10110,Scrubs (2001),Comedy|Drama,tv_show
+10111,The Good Wife (2009),Crime|Drama|Mystery|Thriller,tv_show
+10112,Suits (2011),Comedy|Drama,tv_show
+10113,Boston Legal (2004),Comedy|Drama|Mystery,tv_show
+10114,The Practice (1997),Crime|Drama|Mystery|Thriller,tv_show
+10115,Better Call Saul (2015),Crime|Drama,tv_show
+10116,Rick and Morty (2013),Animation|Adventure|Comedy|Sci-Fi,tv_show
+10117,BoJack Horseman (2014),Animation|Comedy|Drama,tv_show
+10118,Avatar: The Last Airbender (2005),Animation|Action|Adventure|Comedy|Drama|Fantasy,tv_show
+10119,The Simpsons (1989),Animation|Comedy,tv_show
+10120,South Park (1997),Animation|Comedy,tv_show
+10121,Archer (2009),Animation|Action|Comedy|Crime,tv_show
+10122,Futurama (1999),Animation|Adventure|Comedy|Sci-Fi,tv_show
+10123,Family Guy (1999),Animation|Comedy,tv_show
+10124,Attack on Titan (2013),Animation|Action|Adventure|Drama|Fantasy|Horror|Mystery|Thriller,tv_show
+10125,Death Note (2006),Animation|Crime|Drama|Fantasy|Mystery|Thriller,tv_show
+10126,Squid Game (2021),Action|Drama|Mystery|Thriller,tv_show
+10127,Yellowjackets (2021),Drama|Horror|Mystery|Thriller,tv_show
+10128,White Lotus (2021),Comedy|Drama|Mystery,tv_show
+10129,Mare of Easttown (2021),Crime|Drama|Mystery|Thriller,tv_show
+10130,Dopesick (2021),Crime|Drama,tv_show
+10131,Station Eleven (2021),Drama|Sci-Fi|Thriller,tv_show
+10132,The White Lotus (2021),Comedy|Drama|Mystery,tv_show
+10133,Andor (2022),Action|Adventure|Drama|Sci-Fi|Thriller,tv_show
+10134,House of the Dragon (2022),Action|Adventure|Drama|Fantasy,tv_show
+10135,Wednesday (2022),Comedy|Crime|Fantasy|Mystery|Thriller,tv_show
+10136,The Peripheral (2022),Drama|Mystery|Sci-Fi|Thriller,tv_show
+10137,1899 (2022),Drama|Horror|Mystery|Sci-Fi|Thriller,tv_show
+10138,The Sandman (2022),Drama|Fantasy|Horror|Mystery|Thriller,tv_show
+10139,The Rings of Power (2022),Action|Adventure|Drama|Fantasy,tv_show
+10140,Andor (2022),Action|Adventure|Drama|Sci-Fi|Thriller,tv_show
+10141,The Twilight Zone (1959),Drama|Fantasy|Horror|Mystery|Sci-Fi|Thriller,tv_show
+10142,The Simpsons (1989),Animation|Comedy,tv_show
+10143,Seinfeld (1989),Comedy,tv_show
+10144,Friends (1994),Comedy|Romance,tv_show
+10145,The X-Files (1993),Crime|Drama|Mystery|Sci-Fi|Thriller,tv_show
+10146,Twin Peaks (1990),Crime|Drama|Horror|Mystery|Thriller,tv_show
+10147,The Sopranos (1999),Crime|Drama,tv_show
+10148,The Wire (2002),Crime|Drama|Thriller,tv_show
+10149,Lost (2004),Adventure|Drama|Fantasy|Mystery|Sci-Fi|Thriller,tv_show
+10150,Battlestar Galactica (2004),Action|Drama|Sci-Fi|Thriller,tv_show
