@@ -47,20 +47,32 @@ def load_content():
         st.error(f"❌ Error loading content data: {str(e)}")
         return None
 
-# Check for API key
-api_key = os.getenv("HF_API_KEY") or os.getenv("HUGGINGFACE_API_KEY")
+# Check for API key (supports both .env file and Streamlit secrets)
+try:
+    # Try Streamlit secrets first (for deployed apps)
+    api_key = st.secrets.get("HF_API_KEY") or st.secrets.get("HUGGINGFACE_API_KEY")
+except:
+    api_key = None
+
+# Fallback to environment variables (for local development)
+if not api_key:
+    api_key = os.getenv("HF_API_KEY") or os.getenv("HUGGINGFACE_API_KEY")
+
 if not api_key:
     st.error("⚠️ **Hugging Face API key not found.**")
     st.info("""
     Please set your Hugging Face API key:
     
+    **For Local Development:**
     1. Get your API key from: https://huggingface.co/settings/tokens
     2. Create a `.env` file in the project root
     3. Add: `HF_API_KEY=your_api_key_here`
-    4. Or set it as an environment variable
     
-    **Free tier:** 1000 requests/month
-    **Pro tier:** Unlimited requests
+    **For Streamlit Cloud:**
+    1. Go to your app settings → Secrets
+    2. Add: `HF_API_KEY = "your_api_key_here"`
+    
+    **Free tier:** 1000 requests/month | **Pro tier:** Unlimited requests
     """)
     st.stop()
 
